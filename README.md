@@ -4,7 +4,9 @@
 Main Objectives of the Project: 
 
 • Using R to conduct statistics analysis and classification methods machine learning 
+
 • Build Random Forest Model, Classification Tree Model, and C5.0 Classification Model
+
 • Predict the revenue of online shop in December by Interpreting the classification models 
 results 
 
